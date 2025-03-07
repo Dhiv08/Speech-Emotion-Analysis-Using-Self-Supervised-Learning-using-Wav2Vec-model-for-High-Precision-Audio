@@ -53,3 +53,9 @@ Evaluates model performance with accuracy, F1-score, and loss metrics
 Trained model predicts the emotion in new audio files
 
 
+![Image](https://github.com/user-attachments/assets/2ebf9ce9-6d11-4a37-8672-c44853b8c0f9)
+
+![Image](https://github.com/user-attachments/assets/7a0c98d4-b93d-480a-885d-0c02a6d9a64a)
+![Image](https://github.com/user-attachments/assets/8a0c198f-2fea-493a-ad37-545d90552281)
+![Image](https://github.com/user-attachments/assets/0f60af39-0ef1-4a9d-a3b8-400c313458b5)
+
