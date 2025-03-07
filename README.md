@@ -37,20 +37,22 @@ jupyter notebook
 
 ### How It Works
 
-### 1️) Load & Preprocess Data
+### 1) Load & Preprocess Data
 Audio files are loaded using Librosa
 Labels are converted into integer class mappings
 
-### 2️) Feature Extraction with Wav2Vec2
+### 2) Feature Extraction with Wav2Vec2
 Facebook’s Wav2Vec2 is used to extract features from speech
 The extracted features are passed to a classifier
 
-### 3️) Model Training & Evaluation
+### 3) Model Training & Evaluation
 Model fine-tunes Wav2Vec2 using PyTorch & Hugging Face Transformers
 Evaluates model performance with accuracy, F1-score, and loss metrics
 
-### 4️) Inference & Prediction
+### 4) Inference & Prediction
 Trained model predicts the emotion in new audio files
+
+### OUTPUT
 
 
 ![Image](https://github.com/user-attachments/assets/2ebf9ce9-6d11-4a37-8672-c44853b8c0f9)
