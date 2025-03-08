@@ -14,7 +14,7 @@ This project implements **Speech Emotion Recognition (SER)** using **Wav2Vec2**,
 
 ##  Installation & Setup
 
-### 1️) **Clone the Repository**
+### 1) **Clone the Repository**
 
 ### 2) Required Dependencies
 pandas
