@@ -1,4 +1,4 @@
-### speech-emotion-recognition-using-wav2vec2
+### Speech Emotion Analysis Using Self-Supervised Learning:using Wav2Vec model for High-Precision Audio Sentiment Detection
 
 
 This project implements **Speech Emotion Recognition (SER)** using **Wav2Vec2**, a pre-trained transformer-based model for speech processing. The model classifies emotions from audio recordings into categories such as *Happy, Sad, Angry, Fear, Neutral, Disgust, and Surprise*.
